@@ -1,2 +1,3 @@
-# help
-和訳表示サイトなどのヘルプページ
+# chakkunの制作物のヘルプページ
+* (和訳表示サイト)[https://chakkun1121.github.io/view-english/]
+* 
