@@ -26,6 +26,7 @@ You can use this app to view your "wayaku" file and edit "wayaku" file.
 ```
 
 また、次のようにしたExcelなどの表計算ソフトからのコピペも対応しています。(下の表の場合は一番上の行は除いてください)
+
 |英文|日本語訳|
 |:--|:--|
 |This is "view wayaku" web app.|こちらは和訳表示サイトです。|
